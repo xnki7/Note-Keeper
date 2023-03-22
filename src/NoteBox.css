@@ -1,0 +1,12 @@
+.NoteBox{
+    border: 1px solid black;
+    padding: 0.5rem;
+}
+
+.NoteBox p, h3{
+    margin: 0;
+}
+
+.NoteBox p{
+    margin-top: 1rem;
+}
